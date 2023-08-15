@@ -1,0 +1,15 @@
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos personales TORRE.vbproj.AssemblyReference.cache
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos personales TORRE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos_personales_TORRE.Resources.resources
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos personales TORRE.vbproj.GenerateResource.cache
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos personales TORRE.vbproj.CoreCompileInputs.cache
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\bin\Debug\Projectos personales TORRE.exe.config
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\bin\Debug\Projectos personales TORRE.exe
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\bin\Debug\Projectos personales TORRE.pdb
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\bin\Debug\Projectos personales TORRE.xml
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos personales TORRE.exe
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos personales TORRE.xml
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos personales TORRE.pdb
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos_personales_TORRE.EJtextbox.resources
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos_personales_TORRE.MDI_VICENTE.resources
+C:\Users\Vicente Sarlo\source\repos\Projectos personales TORRE\Projectos personales TORRE\obj\Debug\Projectos_personales_TORRE.Form_Chrome_Chino.resources
